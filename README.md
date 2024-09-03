@@ -1,1 +1,1 @@
-Enail 30chrij@bathwildcats.org
+Email 30chrij@bathwildcats.org
