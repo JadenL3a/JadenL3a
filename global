@@ -151,7 +151,7 @@ details summary ~ * {
     bodyDiv.appendChild(footer);
     footer.style.fontSize = '0.9rem';
     footer.style.paddingBottom = '5px';
-    footer.innerHTML = (`<span>GUI by JadenL3a<br>Cheats by <a style="color: lightblue" href="https://twitter.com/glizuwu">JadenL3a</a></span>`);
+    footer.innerHTML = (`<span>GUI by JadenL3a<br>Cheats by <a style="color: lightblue" href="https://github.com/JadenL3a/JadenL3a/tree/main/glizuwu">JadenL3a</a></span>`);
 
     var getValues = () => new Promise((e, t) => {
         try {
